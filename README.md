@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a video game](https://github.com/sawl-an-dawnen/TheVeil)
 
-- 🌱 I’m currently learning **JavaScript, Python, and React.js**
+- 🌱 I’m currently learning **JavaScript and Python**
 
 - 🤝 I’m looking for help with **software development**
 
