@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **JavaScript, Python, and React.js**
 
-- 👯 I’m looking to collaborate on **software development**
-
 - 🤝 I’m looking for help with **software development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sawl-an-dawnen](https://github.com/sawl-an-dawnen)
