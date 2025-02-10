@@ -17,15 +17,15 @@
 <p align="left">
   <!--Linkedin-->
   <a href="https://www.linkedin.com/in/elijah-salandanan-427469169/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Elijah Salandanan" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Elijah Salandanan" height="30" width="40" />
   </a>
   <!--Instagram-->
   <a href="https://instagram.com/sawl_an_dawnen" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sawl-an-dawnen" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sawl-an-dawnen" height="30" width="40" />
   </a>
   <!--Youtube-->
   <a href="https://www.youtube.com/@sawl_an_dawnen" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sawl_an_dawnen" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sawl_an_dawnen" height="30" width="40" />
   </a>
 </p>
 
