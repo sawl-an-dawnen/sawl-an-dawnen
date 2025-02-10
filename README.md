@@ -1,6 +1,6 @@
-<h1 align="center">Welcome!</h1>
+<h1 align="center">Hi 👋, I'm Elijah Salandanan</h1>
 
-<h3 align="center">I am a front-end engineer and indie game developer from Houston, TX</h3>
+<h3 align="center">A front-end engineer and indie game developer from Houston, TX</h3>
 
 <div align="center">
   <p>
